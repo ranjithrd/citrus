@@ -13,7 +13,7 @@ It's designed to be as simple as possible and has only one `node_modules` folder
 1. To start with a Citrus template, simply run this script on your terminal.
 
     ```bash
-        git clone https://github.com/ranjithrd/nitrate.git NAME
+        git clone https://github.com/ranjithrd/citrus.git NAME
         cd NAME
         curl -sSL https://bit.ly/citrussh | bash
     ```
